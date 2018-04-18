@@ -1,22 +1,91 @@
-
 <html>
 
+<head>
+
+	<link href='https://fonts.googleapis.com/css?family=Abel' rel='stylesheet'>
+
+	<style>
+
+	body {
+		background-color: #f2f2f2 ;
+
+	}
+
+	p {
+		font-family: 'PT Sans', Sans-Serif ; font-size: 11px ;
+		text-align: center ;
+
+	}
+
+    #blockme {
+    	background-color: white ;
+    	text-align: center ;
+    	font-family: 'Abel' ; 
+
+    }
+
+    #aboutme {
+    	background-color: white ;
+    	text-align: center ;
+    	font-family: 'Abel' ;
+
+    }
+
+	#whywebdev {
+		background-color: white ;
+		text-align: center ;
+		font-family: 'Abel'
+
+	}
+
+
+	#whoismaboi {
+		background-color: white ;
+		text-align: center ;
+		font-family: 'Abel'
+
+
+
+	}
+	</style>
+</head>
 <body>
 
-<h2> Why I picked up Web Development </h2>
-<p> i wanna be sg #1 youth influencer and open an online lingere store so i wanna learn how to design my website just like nicole choo. gotta learn how to do web dev so i can go make my boobs double Ds if no one donate to my gofundme :-((( </p>
 
-<h2>ma boi</2>
-	<br>
-<a href="">Woo Dohwan </a>
+
+
+<h3 id = "whywebdev"> WHY I PICKED UP WEB DEV </h3>
+
+<p> <font color= "black"> i wanna be sg #1 youth influencer and open an online lingere store so i wanna learn how to design my website just like nicole choo. gotta learn how to do web dev so i can go make my boobs double Ds if no one donate to my gofundme :-((( jkjk real deal: thought it would be fun to create my own website that's legit and understand what the heck goes behind the aesthetic websites </p>
+
+
+
+
+<h3 id = "whoismaboi"> ONE TRUE LOVE </h3>
+
+<p> <a href="https://people.search.naver.com/search.naver?where=nexearch&query=%EC%9A%B0%EB%8F%84%ED%99%98&sm=tab_etc&ie=utf8&key=PeopleService&os=4091619"> Woo Dohwan </a> 
 <br> 
-<img src="https://data.whicdn.com/images/296034419/original.gif" alt="cute boi i wanna boop his nose">
-<h2> Sites I Wish Weren't Blocked On School Wifi </h2>
-<p> aLl wEbSiTes ShOuLdN't bE BlOcKeD <br> 
-	<s> <font size= "1.0">(sO pEoPle cAn sTopPing SuCkiNg EaCh OtHer'S CoCk) </s> 
-	<br> <font size= "3.0"> wE sHoUlD hAvE fReEdOm </p>
-<img src= "https://pbs.twimg.com/media/DAmiYhhWsAAfGnm.jpg">
 
+<img src="https://data.whicdn.com/images/296034419/original.gif" alt="cute boi i wanna boop his nose" > <br><br>
+dis (one of) mah boi(s),, gotta support his new drama 'the great seducer' whoopwhoop he looks hella cool in 'mad dog' scamming and tricking bad people. brb gonna go scam some ppl too </p>
+
+
+
+<br>
+
+<h3 id = "blockme"> WHY ARE THESE SITES BLOCKED </h3>
+<p> i have abosolutely no idea what websites are blocked on the school wifi because i'm a boring ass bitch with no life sorrz </p>
+
+
+<h3 id = "aboutme"> USELESS CHINESE PICKUP LINES I CAN'T USE BECAUSE WHO UNDERTSTANDS CHINESE HERE SMH </h3>
+<p> 
+	你知道我之前姓什么吗？<br>
+	我之前姓王，但遇见你之后，我就幸福。<br><br>
+你是什么血型？<br>
+我认为你是我的理想型。<br><br>
+我可以跟你拍张照吗？<br>
+我先让我们未来的孩子知道他爸爸年轻时有多帅。<br><br>
+more comin soon dis but a sneakpeek ma boo </p>
 </body>
 
 
